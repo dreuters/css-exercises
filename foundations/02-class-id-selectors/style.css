@@ -1,0 +1,20 @@
+/* styles.css */
+.someclass {
+    background-color: #efa5a5;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.someclass.cooler {
+    font-size: 24px;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #a5efa5;
+    font-size: 24px;
+    font-weight: 700;
+}
