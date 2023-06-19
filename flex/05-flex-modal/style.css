@@ -39,6 +39,14 @@ body {
   flex-shrink: 0;
 }
 
+.header {
+  display: flex;
+  justify-content: space-between;
+  font-weight: 700;
+  font-size: larger;
+  align-items: center;
+}
+
 .close-button {
   background: #eee;
   border-radius: 50%;
@@ -52,6 +60,10 @@ body {
   justify-content: center;
   border: 1px solid #eee;
   padding: 0;
+}
+
+.text {
+  padding: 15px 0px;
 }
 
 button {
